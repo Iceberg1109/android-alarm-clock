@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_profile">
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.lernora.alarm.ui.ProfileFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_alarm"
+        android:name="com.lernora.alarm.ui.AlarmFragment"
+        android:label="@string/title_alarm"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/navigation_setting"
+        android:name="com.lernora.alarm.ui.SettingFragment"
+        android:label="@string/title_setting"
+        tools:layout="@layout/fragment_notifications" />
+
+    <fragment
+        android:id="@+id/navigation_term"
+        android:name="com.lernora.alarm.ui.TermFragment"
+        android:label="@string/title_term"
+        tools:layout="@layout/fragment_notifications" />
+</navigation>

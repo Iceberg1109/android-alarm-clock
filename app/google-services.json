@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83660747699",
+    "firebase_url": "https://alarmclock-1dd97.firebaseio.com",
+    "project_id": "alarmclock-1dd97",
+    "storage_bucket": "alarmclock-1dd97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83660747699:android:155e6483d84f08de0f11c6",
+        "android_client_info": {
+          "package_name": "com.lernora.alarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83660747699-ele80vesc3lashvbkev07bs93f6qnhvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lernora.alarm",
+            "certificate_hash": "6253bb619f58bd9073d220caf8479ffb4f9358f9"
+          }
+        },
+        {
+          "client_id": "83660747699-g8b75380au2iiqv3tep6758cgcq40tak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-BwuqLVgwpPHD8PYQjaFWjjniFP4-Kx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83660747699-g8b75380au2iiqv3tep6758cgcq40tak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

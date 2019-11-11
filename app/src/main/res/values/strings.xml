@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LernoraAlarm</string>
+    <string name="logo_ready">Ready</string>
+    <string name="logo_for">For</string>
+    <string name="logo_life">Life</string>
+    <string name="signuptxt0">Don\'t you have an account?</string>
+    <string name="btnTxt">Let\'s Go!</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_alarm">Alarm</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_term">Term</string>
+</resources>
